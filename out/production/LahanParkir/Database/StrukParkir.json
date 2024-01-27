@@ -1,0 +1,14 @@
+[
+  {
+    "platNomor": "W 2212 TG",
+    "checkInTime": "Jan 20, 2024, 3:40:14 PM",
+    "checkOutTime": "Jan 22, 2024, 3:40:55 PM",
+    "Harga": 15000
+  },
+  {
+    "platNomor": "W 4862 NAM",
+    "checkInTime": "Jan 22, 2024, 3:45:07 PM",
+    "checkOutTime": "Jan 22, 2024, 3:46:30 PM",
+    "Harga": 0
+  }
+]
