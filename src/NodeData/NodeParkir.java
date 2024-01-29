@@ -1,13 +1,12 @@
 package NodeData;
-
 import java.util.Date;
-import java.util.HashMap;
+
 
 public class NodeParkir {
-    String platNomor;
-    Date checkInTime;
-    Date checkOutTime;
-    int Harga;
+    private String platNomor;
+    private Date checkInTime;
+    private Date checkOutTime;
+    private int Harga;
 
     public NodeParkir (String platNomor, Date checkInTime, Date checkOutTime, int Harga) {
         this.platNomor = platNomor;

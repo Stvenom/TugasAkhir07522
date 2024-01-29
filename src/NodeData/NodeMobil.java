@@ -1,9 +1,8 @@
 package NodeData;
-
 import java.util.Date;
 
 public class NodeMobil extends DataMobil{
-        Date checkInTime;
+        private Date checkInTime;
 
         public NodeMobil (String platNomor, Date checkInTime) {
             super(platNomor);

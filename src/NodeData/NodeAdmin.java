@@ -1,8 +1,8 @@
 package NodeData;
 
 public class NodeAdmin{
-    String Username;
-    String Password;
+    private String Username;
+    private String Password;
 
     public NodeAdmin() {
         this.Username = "eko";
